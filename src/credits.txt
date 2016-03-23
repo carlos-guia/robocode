@@ -1,0 +1,29 @@
+
+Simonton:
+	- For the very neat tree class.
+
+ABC:
+	- Creator of Wave Surfing
+	- Showing how important DC is
+	- Performance vs Shadow was used as measure
+
+Skilgannon:
+	- Reaching the top with a DC gun
+	- Performance vs DrussGT was used as measure
+
+Paul Evans:
+	- Creator of GF targeting and Rolling Average
+		
+Voidious:
+	- WaveSurfing tutorial
+	- Performance vs Dookious was used as measure
+
+Kawigi:
+	- GF targeting tutorial is the base of most the guns
+
+Rednaxela:
+	- Performance vs RougeDC was used as measure
+
+PEZ:
+	- RoboWiki
+	- All the knowledge he shared
